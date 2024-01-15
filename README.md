@@ -1,3 +1,3 @@
 # DfMSkills2024_TimberAssmebly
 
-One week workshop using Timber assembly. The goal of the workshop is to learn the principles of robotic manufacturing using Grasshopper visual programming applied to timber assembly. The students have the assigment of choosing a stock material, assembly logic and overall design.
+One-week workshop using Timber assembly. The goal of the workshop is to learn the principles of robotic manufacturing using Grasshopper visual programming applied to timber assembly. The students have the assignment of choosing a stock material, assembly logic, and overall design. At the start of the first day, a short lecture was given on state-of-the-art timber assembly research followed by a step-by-step demo of a sample Grasshopper script. Following that, the students are split into groups of 3-4 people. After a couple of hours, tutorials were held to provide some guidance on the design development.
